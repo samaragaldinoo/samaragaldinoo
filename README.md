@@ -1,12 +1,15 @@
 Olá! Eu sou a Samara.
 
-Bem-vindos(as) ao meu Perfil!
+Sou desenvolvedora Full Stack em formação, com foco em construir soluções práticas e evoluir constantemente na área de tecnologia.
 
-🌱 Atualmente, estou dedicando meu tempo aos estudos para me tornar uma programadora Full Stack Jr.
+🌱 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack, com foco em boas práticas, lógica e construção de aplicações completas.
 
-⚡ Também estou envolvida em um projeto pessoal empolgante, buscando aplicar e aprimorar minhas habilidades.
+⚡ Desenvolvo projetos pessoais onde aplico na prática o que estudo, buscando sempre melhorar minhas habilidades técnicas e meu raciocínio de desenvolvimento.
 
-😄 Meus pronomes são ela/dela. Estou entusiasmada com a jornada de aprendizado e ansiosa para contribuir de maneira positiva na comunidade.
+💻 Tenho grande interesse em oportunidades que me permitam crescer profissionalmente, contribuir em equipe e gerar impacto através da tecnologia.
+
+😄 Pronomes: ela/dela.
+🚀 Em constante evolução e aberta a novos desafios.
 
 
 <div>
